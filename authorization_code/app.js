@@ -16,6 +16,7 @@ var cookieParser = require('cookie-parser');
 var client_id = '91cd4296493e4ea1a136290fbc983fdb'; // Your client id
 var client_secret = '80803bcf87e04a47b0b3d13746fa4739'; // Your secret
 var redirect_uri = 'http://localhost:8888/callback'; // Your redirect uri
+// var redirect_uri = 'https://leonbarnard.surge.sh/callback'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
